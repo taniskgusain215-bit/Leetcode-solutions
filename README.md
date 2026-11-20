@@ -31,4 +31,16 @@ Leetcode solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/taniskgusain215-bit/Leetcode-solutions/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/taniskgusain215-bit/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/taniskgusain215-bit/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/taniskgusain215-bit/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
